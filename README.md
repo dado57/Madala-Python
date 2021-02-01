@@ -1,36 +1,36 @@
 # Madala-Python
 Random Mandala with Python 3.8.5 - tkinter - PIL
 
-#English
+English
 
 Create shapes, with circular repetition and MANDALA-like mirroring
 With random coloring
 
-#SHAPE
+- SHAPE
 
 Polygons, Flower, Lines, Circle, Rectangles, Oval
 
-#UNDO
+- UNDO
 
 Undo last figure
 
-#SAVE
+- SAVE
 
 Save a .PNG file (with transparent background if indicated)
 
-#Italiano
+Italiano
 
 Crea forme, con ripetizione circolare e specchiatura tipo MANDALA
 Con colorazione random 
 
-#FORMA
+- FORMA
 
 Poligoni, CreaFiore, CreaLinee, CreaCerchi, CreaRettangoli, CreaOvali
 
-#UNDO
+- UNDO
 
 Toglie l'utima figura
 
-#SALVA
+- SALVA
 
 Salva un file .PNG (con sfondo trasparente se indicato)
