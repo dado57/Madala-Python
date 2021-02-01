@@ -1,7 +1,7 @@
 # Madala-Python
 Random Mandala with Python 3.8.5 - tkinter - PIL
 
-English
+# English
 
 Create shapes, with circular repetition and MANDALA-like mirroring
 With random coloring
@@ -18,7 +18,7 @@ Undo last figure
 
 Save a .PNG file (with transparent background if indicated)
 
-Italiano
+# Italiano
 
 Crea forme, con ripetizione circolare e specchiatura tipo MANDALA
 Con colorazione random 
